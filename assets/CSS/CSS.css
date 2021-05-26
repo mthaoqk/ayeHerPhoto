@@ -1,0 +1,12 @@
+* {
+    color:white;
+}
+
+body {
+    background-image: url(../Images/ocean.png);
+}
+
+li {
+    display: inline;
+    float: right;
+}
